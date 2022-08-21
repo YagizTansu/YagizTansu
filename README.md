@@ -1,6 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagizTansu&langs_count=3&hide=blade,html,PHP,java)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YagizTansu&repo=DesignPatternCPP)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YagizTansu&repo=DesignPatternCPP)
 <!--
 **YagizTansu/YagizTansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
