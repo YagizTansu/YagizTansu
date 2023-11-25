@@ -15,11 +15,7 @@
 Engineering. My interest in robotics has led me to gather substantial practical experience in the
 sector through part-time work, which has given me a thorough understanding of the embedded
 system development process. I believe that my deep understanding of programming languages
-and my experience in designing and optimizing robotic systems enable me to offer quality
-
-solutions. I value collaboration and enjoy working in teams, where I can contribute my problem-
-solving abilities to help achieve team success. As a passionate learner, I am always eager to
-
-explore new technologies and adapt to changing needs. I believe that my willingness to learn
+and my experience in designing and optimizing robotic systems enable me to offer quality solutions. I value collaboration and enjoy working in teams, where I can contribute my problem-
+solving abilities to help achieve team success. As a passionate learner, I am always eager to explore new technologies and adapt to changing needs. I believe that my willingness to learn
 makes me a quick learner and a valuable team member.
 </p>
