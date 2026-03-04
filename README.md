@@ -36,14 +36,14 @@ Currently at **Advoard Robotics** (3+ years), I've built systems that navigate, 
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| **Fleet Management System** | Multi-AMR coordination with VDA 5050 standard, real-time task allocation & collision avoidance | `C++` `ROS` `VDA5050` `IoT` |
 | **Pallet Recognition (Unsupervised)** | Detects EUR pallets without labeled data, adapts to lighting/obstructions in real-time | `C++` `OpenCV` `DBSCAN` `K-means` |
 | **Autonomous Docking** | PID-based precise docking with real-time sensor fusion for industrial AMRs | `C++` `PID` `LiDAR` `Sensor Fusion` |
 | **Guidance Robot** | SLAM-based autonomous navigation robot with obstacle avoidance for retail environments | `ROS` `SLAM` `LiDAR` `Python` |
+| **Fleet Management System** | Multi-AMR coordination with VDA 5050 standard, real-time task allocation & collision avoidance | `C++` `ROS` `VDA5050` `IoT` |
 
 ---
 
@@ -57,5 +57,5 @@ Currently at **Advoard Robotics** (3+ years), I've built systems that navigate, 
 
 <div align="center">
   
-  <sub>Dual B.Sc. in Mechatronics Engineering & Software Engineering · Izmir University of Economics</sub>
+  Dual B.Sc. in Mechatronics Engineering & Software Engineering · Izmir University of Economics
 </div>
